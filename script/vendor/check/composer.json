@@ -1,0 +1,14 @@
+{
+    "name": "amcoders/check",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Amcoders\\Check\\": "src/"
+        }
+    }
+
+}
